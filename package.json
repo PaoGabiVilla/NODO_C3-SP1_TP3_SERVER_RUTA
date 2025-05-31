@@ -1,0 +1,24 @@
+{
+  "name": "nodo_c3-sp1_tp3_server_ruta",
+  "version": "1.0.0",
+  "description": "Configuración de servidor express.",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaoGabiVilla/NODO_C3-SP1_TP3_SERVER_RUTA.git"
+  },
+  "author": "Paola Villafañez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaoGabiVilla/NODO_C3-SP1_TP3_SERVER_RUTA/issues"
+  },
+  "homepage": "https://github.com/PaoGabiVilla/NODO_C3-SP1_TP3_SERVER_RUTA#readme",
+  "dependencies": {
+    "eslint": "^9.28.0",
+    "express": "^5.1.0",
+    "jest": "^29.7.0"
+  }
+}
